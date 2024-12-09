@@ -11,7 +11,7 @@ function chatBoxes(chatImage) {
   } else if (imageFileName === "chat2.png") {
     chatImage.src = "images/chat3.png";
   } else if (imageFileName === "chat3.png") {
-    window.location.href = "https://qh64vr.csb.app/";
+    window.location.href = "https://chdavinci.github.io/pokemonchampion/";
   }
 }
 
