@@ -77,3 +77,8 @@ body {
   width: 60%;
   height: 60%;
 }
+
+.scale{
+  display: block;
+  transform: scale(2);
+}
